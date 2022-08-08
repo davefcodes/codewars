@@ -9,8 +9,7 @@
 def sentence (words):
     return " ".join(words)
 
-
 # test Case
 words = ['hello', 'world', 'this', 'is', 'great']
-print(sentence(words))
+print(sentence(words)) 
 
