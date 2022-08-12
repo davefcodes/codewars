@@ -16,3 +16,4 @@ number = -5
 number = 0
 print(make_negative(number))
 print(make_negative(number))
+
