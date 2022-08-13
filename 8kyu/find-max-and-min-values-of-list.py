@@ -8,8 +8,8 @@
 # Notes
 # You may consider that there will not be any empty arrays/vectors.
 
-
-def maximum(arr):
+# My Solution 
+def maximum(arr): 
     for i in arr:
         return max(arr)
 
@@ -23,3 +23,4 @@ def minimum(arr):
 
 arr = [-52, 56, 30, 29, -54, 0, -110] 
 print(minimum(arr))
+
