@@ -7,10 +7,10 @@
 
 # My Solution 
 def sentence (words):
-    return " ".join(words)
+    return " ".join(words) #
 
 
 
-words = ['hello', 'world', 'this', 'is', 'great'] # result -> 
+words = ['hello', 'world', 'this', 'is', 'great'] # result -> "hello world this is great"
 print(sentence(words)) 
 
