@@ -7,7 +7,7 @@
 
 # My Solution 
 def sentence (words):
-    return " ".join(words) #
+    return " ".join(words) #The join() method returns a string concatenated with the elements of iterable. 
 
 
 
